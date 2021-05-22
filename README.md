@@ -1,17 +1,14 @@
-# DGUS-reloaded-Klipper-config
+# CR-10S Pro / Duet 3 Mini 5+ Klipper config
 
-Example configurations for the [DGUS-reloaded-Klipper firmware](https://github.com/Desuuuu/DGUS-reloaded-Klipper).
-
-Meant to be used with [this fork of Klipper](https://github.com/Desuuuu/klipper).
+My personal configuration for the Duet 3 Mini 5+ running Klipper in my heavily modified Cr-10S Pro.  The configuration file includes (currently disabled) provisions to use the Creality touch screen with the excellent [DGUS-reloaded-Klipper firmware](https://github.com/Desuuuu/DGUS-reloaded-Klipper).  In order to enable and use the touch screen, [Desuuuu's fork of Klipper](https://github.com/Desuuuu/klipper) must be used.
 
 ## Configurations
 The following configurations are available in the examples folder:
 
-* [Creality CR-10S Pro](/examples/printer-creality-cr10spro.cfg)
-* [Creality CR-10S Pro V2](/examples/printer-creality-cr10sprov2.cfg)
-* [Ender 5 Plus](/examples/printer-creality-ender5plus.cfg)
+* [ReXT3D's Creality CR-10S Pro](/examples/printer-creality-cr10spro.cfg)
 
-These examples also include my [collection of G-code macros](https://github.com/Desuuuu/klipper-macros).
+The examples folder also includes Desuuuu's [collection of G-code macros](https://github.com/Desuuuu/klipper-macros) in a separate [macros.cfg](/examples/macros.cfg) file.
 
 ## License
 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
+
